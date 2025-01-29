@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97346705217",
+    "project_id": "sedekah-7d123",
+    "storage_bucket": "sedekah-7d123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97346705217:android:6bda84f3a81265d5f173c0",
+        "android_client_info": {
+          "package_name": "com.example.sedekah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj_hqaed1ENMh1AFhID8NzPXat3ZumfUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
