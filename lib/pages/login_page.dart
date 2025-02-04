@@ -83,6 +83,8 @@ class _LoginPageState extends State<LoginPage> {
                 height: 20,
               ),
 
+              SizedBox(height: 20),
+
               //password textfield
 
               MyTextfield(
