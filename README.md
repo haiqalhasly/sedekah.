@@ -1,7 +1,7 @@
 # sedekah
 
 This is an app where we can track out ibadah through out the day.🛤️
-We can also aget coins where you can buy some gifts. 🎁
+We can also get coins where you can buy some gifts. 🎁
 The gift can be keep or sends it to your friends. 🧑‍🤝‍🧑
 
 What's the objective?? 🎯
